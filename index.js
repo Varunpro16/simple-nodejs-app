@@ -5,6 +5,8 @@ const wikip = require('wiki-infobox-parser');
 
 //ejs
 app.set("view engine", 'ejs');
+// hello
+// hello guys
 
 //routes
 app.get('/', (req,res) =>{
